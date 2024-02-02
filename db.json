@@ -1,0 +1,89 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "c023",
+      "title": "ITIS",
+      "author": "Law"
+    },
+    {
+      "id": "3eff",
+      "title": "lawas",
+      "author": "asdasd"
+    },
+    {
+      "id": "78fb",
+      "title": "asd",
+      "author": "asdsad"
+    },
+    {
+      "id": "63ff",
+      "title": "asd",
+      "author": "asdsd"
+    },
+    {
+      "id": "4bc3",
+      "title": "test",
+      "author": "sete"
+    },
+    {
+      "id": "d468",
+      "title": "as",
+      "author": "fasdf"
+    },
+    {
+      "id": "9d1c",
+      "title": "",
+      "author": ""
+    },
+    {
+      "id": "12b2",
+      "title": "",
+      "author": ""
+    },
+    {
+      "id": "2720",
+      "title": "kaskldasld",
+      "author": "aksdmkasd"
+    },
+    {
+      "id": "eab2",
+      "title": "iejne",
+      "author": "iasd"
+    },
+    {
+      "id": "59fa",
+      "title": "",
+      "author": ""
+    },
+    {
+      "id": "522d",
+      "title": "",
+      "author": ""
+    },
+    {
+      "id": "ef71",
+      "title": "defa",
+      "author": "asdasd"
+    },
+    {
+      "id": "c979",
+      "title": "test",
+      "author": "test"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
